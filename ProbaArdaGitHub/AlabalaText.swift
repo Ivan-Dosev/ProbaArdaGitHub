@@ -1,5 +1,5 @@
 //
-//  ContentView.swift
+//  AlabalaText.swift
 //  ProbaArdaGitHub
 //
 //  Created by Ivan Dosev Dimitrov on 29.06.20.
@@ -8,19 +8,21 @@
 
 import SwiftUI
 
-struct ContentView: View {
+struct AlabalaText: View {
     var body: some View {
         VStack {
-            Text("Hello 100")
-            Text("Hello 200")
-            Text("Hello 300")
-            AlabalaText()
+         
+            
+            Image("t20")
+            .resizable()
+            .frame(width: 100, height: 100)
+
         }
     }
 }
 
-struct ContentView_Previews: PreviewProvider {
+struct AlabalaText_Previews: PreviewProvider {
     static var previews: some View {
-        ContentView()
+        AlabalaText()
     }
 }
