@@ -17,6 +17,7 @@
 		703B535224AA356A0075886B /* ProbaArdaGitHubTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 703B535124AA356A0075886B /* ProbaArdaGitHubTests.swift */; };
 		703B535D24AA356A0075886B /* ProbaArdaGitHubUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 703B535C24AA356A0075886B /* ProbaArdaGitHubUITests.swift */; };
 		703B536D24AA36F00075886B /* AlabalaText.swift in Sources */ = {isa = PBXBuildFile; fileRef = 703B536C24AA36F00075886B /* AlabalaText.swift */; };
+		703B536F24AA38500075886B /* DossiText.swift in Sources */ = {isa = PBXBuildFile; fileRef = 703B536E24AA38500075886B /* DossiText.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		703B535C24AA356A0075886B /* ProbaArdaGitHubUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProbaArdaGitHubUITests.swift; sourceTree = "<group>"; };
 		703B535E24AA356A0075886B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		703B536C24AA36F00075886B /* AlabalaText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlabalaText.swift; sourceTree = "<group>"; };
+		703B536E24AA38500075886B /* DossiText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DossiText.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				703B533724AA35640075886B /* AppDelegate.swift */,
 				703B533924AA35640075886B /* SceneDelegate.swift */,
 				703B533E24AA35640075886B /* ContentView.swift */,
+				703B536E24AA38500075886B /* DossiText.swift */,
 				703B536C24AA36F00075886B /* AlabalaText.swift */,
 				703B534024AA35690075886B /* Assets.xcassets */,
 				703B534524AA35690075886B /* LaunchScreen.storyboard */,
@@ -274,6 +277,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				703B536D24AA36F00075886B /* AlabalaText.swift in Sources */,
+				703B536F24AA38500075886B /* DossiText.swift in Sources */,
 				703B533D24AA35640075886B /* ProbaArdaGitHub.xcdatamodeld in Sources */,
 				703B533824AA35640075886B /* AppDelegate.swift in Sources */,
 				703B533F24AA35640075886B /* ContentView.swift in Sources */,
