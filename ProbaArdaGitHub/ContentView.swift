@@ -12,9 +12,7 @@ struct ContentView: View {
     var body: some View {
         VStack {
             DossiText()
-            Text("Hello 100")
-            Text("Hello 200")
-            Text("Hello 300")
+
             
             AlabalaText()
             Arda_Text()
