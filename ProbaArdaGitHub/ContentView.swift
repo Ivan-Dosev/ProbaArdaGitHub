@@ -17,6 +17,7 @@ struct ContentView: View {
             Text("Hello 300")
             
             AlabalaText()
+            Arda_Text()
         }
     }
 }
